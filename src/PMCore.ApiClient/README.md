@@ -170,7 +170,7 @@ Authentication schemes defined for the API:
 - packageCompany: OpenAPI
 - packageCopyright: No Copyright
 - packageDescription: A library generated from a OpenAPI doc
-- packageGuid: {1A332783-8AB4-400D-A705-17CB9E0C975D}
+- packageGuid: {D3E88E20-94AD-4DAA-B3AB-E0B988CA9668}
 - packageName: PMCore.ApiClient
 - packageTags: 
 - packageTitle: OpenAPI Library
