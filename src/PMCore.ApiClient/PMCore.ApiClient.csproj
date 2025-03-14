@@ -16,6 +16,7 @@
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\PMCore.ApiClient.xml</DocumentationFile>
     <RepositoryUrl>https:////.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>Minor update</PackageReleaseNotes>
     <ManagePackageVersionsCentrally>false</ManagePackageVersionsCentrally>
   </PropertyGroup>
 

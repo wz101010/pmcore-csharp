@@ -5,7 +5,7 @@
 
 git_user_id=${1:-}
 git_repo_id=${2:-}
-release_note=${3:-}
+release_note=${3:-Minor update}
 git_host=${4:-}
 
 starting_directory=$(pwd)

@@ -37,7 +37,7 @@ java -jar "<path>/openapi-generator/modules/openapi-generator-cli/target/openapi
     --git-host "" `
     --git-repo-id "" `
     --git-user-id "" `
-    --release-note ""
+    --release-note "Minor update"
     # -t templates
 ```
 
@@ -170,12 +170,12 @@ Authentication schemes defined for the API:
 - packageCompany: OpenAPI
 - packageCopyright: No Copyright
 - packageDescription: A library generated from a OpenAPI doc
-- packageGuid: {D3E88E20-94AD-4DAA-B3AB-E0B988CA9668}
+- packageGuid: {C93216F0-271C-4CD6-B900-5EAA98CF831B}
 - packageName: PMCore.ApiClient
 - packageTags: 
 - packageTitle: OpenAPI Library
 - packageVersion: 1.0.3
-- releaseNote: 
+- releaseNote: Minor update
 - returnICollection: false
 - sortParamsByRequiredFlag: 
 - sourceFolder: src

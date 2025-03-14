@@ -2,7 +2,7 @@ param(
     [Parameter()][Alias("g")][String]$GitHost = "",
     [Parameter()][Alias("u")][String]$GitUserId = "",
     [Parameter()][Alias("r")][String]$GitRepoId = "",
-    [Parameter()][Alias("m")][string]$Message = "",
+    [Parameter()][Alias("m")][string]$Message = "Minor update",
     [Parameter()][Alias("h")][switch]$Help
 )
 

@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMCore.ApiClient", "src\PMCore.ApiClient\PMCore.ApiClient.csproj", "{D3E88E20-94AD-4DAA-B3AB-E0B988CA9668}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMCore.ApiClient", "src\PMCore.ApiClient\PMCore.ApiClient.csproj", "{C93216F0-271C-4CD6-B900-5EAA98CF831B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMCore.ApiClient.Test", "src\PMCore.ApiClient.Test\PMCore.ApiClient.Test.csproj", "{19F1DEBC-DE5E-4517-8062-F000CD499087}"
 EndProject
@@ -12,10 +12,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3E88E20-94AD-4DAA-B3AB-E0B988CA9668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3E88E20-94AD-4DAA-B3AB-E0B988CA9668}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3E88E20-94AD-4DAA-B3AB-E0B988CA9668}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3E88E20-94AD-4DAA-B3AB-E0B988CA9668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93216F0-271C-4CD6-B900-5EAA98CF831B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93216F0-271C-4CD6-B900-5EAA98CF831B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93216F0-271C-4CD6-B900-5EAA98CF831B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93216F0-271C-4CD6-B900-5EAA98CF831B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Release|Any CPU.ActiveCfg = Release|Any CPU
